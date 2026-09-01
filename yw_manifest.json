@@ -1,0 +1,27 @@
+{
+  "name": "Raju Garu Hotel - Restaurant Ordering App",
+  "short_name": "RajuGaruHotel",
+  "description": "A mobile-first, fast-loading restaurant ordering web app for village hotels with direct WhatsApp ordering to 9347671131.",
+  "version": "1.0.0",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/images/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "author": "Raju Garu",
+  "category": "Food & Drink",
+  "whatsapp_orders_number": "9347671131",
+  "hotel_details": {
+    "name": "Raju Garu Hotel",
+    "phone": "+919347671131",
+    "whatsapp": "9347671131",
+    "since": "2015",
+    "tagline": "Famous for Authentic Home Style Andhra Meals"
+  }
+}
